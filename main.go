@@ -1,3 +1,5 @@
+packagr main
+
 import "fmt"
 
 func main()  {
