@@ -1,7 +1,5 @@
-packagr main
-
+package main
 import "fmt"
-
-func main()  {
-	fmt.Printf("hello word！！!\n")
+func main() {
+    fmt.Println("Hello, world")
 }
